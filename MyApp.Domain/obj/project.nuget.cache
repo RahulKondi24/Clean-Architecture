@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "l/Mt2x9kHm9s9TGszrjb+ytcIrJPfoSl322/Mq1kVbRtapy9MjfnawbtMFyLpUQKQ/b1nXi9pLIH2eZzt9089g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\whizt\\Desktop\\RahulKondi\\FavoAPI\\MyAppSolution\\MyApp.Domain\\MyApp.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\whizt\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\whizt\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\whizt\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

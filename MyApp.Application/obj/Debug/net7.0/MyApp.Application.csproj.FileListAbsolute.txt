@@ -1,0 +1,15 @@
+C:\Users\whizt\Desktop\RahulKondi\FavoAPI\MyAppSolution\MyApp.Application\bin\Debug\net7.0\MyApp.Application.deps.json
+C:\Users\whizt\Desktop\RahulKondi\FavoAPI\MyAppSolution\MyApp.Application\bin\Debug\net7.0\MyApp.Application.dll
+C:\Users\whizt\Desktop\RahulKondi\FavoAPI\MyAppSolution\MyApp.Application\bin\Debug\net7.0\MyApp.Application.pdb
+C:\Users\whizt\Desktop\RahulKondi\FavoAPI\MyAppSolution\MyApp.Application\obj\Debug\net7.0\MyApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\whizt\Desktop\RahulKondi\FavoAPI\MyAppSolution\MyApp.Application\obj\Debug\net7.0\MyApp.Application.AssemblyInfoInputs.cache
+C:\Users\whizt\Desktop\RahulKondi\FavoAPI\MyAppSolution\MyApp.Application\obj\Debug\net7.0\MyApp.Application.AssemblyInfo.cs
+C:\Users\whizt\Desktop\RahulKondi\FavoAPI\MyAppSolution\MyApp.Application\obj\Debug\net7.0\MyApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\whizt\Desktop\RahulKondi\FavoAPI\MyAppSolution\MyApp.Application\obj\Debug\net7.0\MyApp.Application.dll
+C:\Users\whizt\Desktop\RahulKondi\FavoAPI\MyAppSolution\MyApp.Application\obj\Debug\net7.0\refint\MyApp.Application.dll
+C:\Users\whizt\Desktop\RahulKondi\FavoAPI\MyAppSolution\MyApp.Application\obj\Debug\net7.0\MyApp.Application.pdb
+C:\Users\whizt\Desktop\RahulKondi\FavoAPI\MyAppSolution\MyApp.Application\obj\Debug\net7.0\ref\MyApp.Application.dll
+C:\Users\whizt\Desktop\RahulKondi\FavoAPI\MyAppSolution\MyApp.Application\bin\Debug\net7.0\MyApp.Domain.dll
+C:\Users\whizt\Desktop\RahulKondi\FavoAPI\MyAppSolution\MyApp.Application\bin\Debug\net7.0\MyApp.Domain.pdb
+C:\Users\whizt\Desktop\RahulKondi\FavoAPI\MyAppSolution\MyApp.Application\obj\Debug\net7.0\MyApp.Application.csproj.AssemblyReference.cache
+C:\Users\whizt\Desktop\RahulKondi\FavoAPI\MyAppSolution\MyApp.Application\obj\Debug\net7.0\MyApp.Application.csproj.CopyComplete

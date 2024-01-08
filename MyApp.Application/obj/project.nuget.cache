@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6Yazy3LZIJ/8L1GdFJEIivoXOc+g063HQc+rArqEECD1tnHAJ2bYVMk2NYpmvAXzs6ph49rdSNauknhJdcXwWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\whizt\\Desktop\\RahulKondi\\FavoAPI\\MyAppSolution\\MyApp.Application\\MyApp.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\whizt\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\whizt\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\whizt\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\whizt\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

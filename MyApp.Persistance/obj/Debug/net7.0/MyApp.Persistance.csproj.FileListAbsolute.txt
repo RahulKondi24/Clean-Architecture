@@ -1,0 +1,17 @@
+C:\Users\whizt\Desktop\RahulKondi\FavoAPI\MyAppSolution\MyApp.Persistance\bin\Debug\net7.0\MyApp.Persistance.deps.json
+C:\Users\whizt\Desktop\RahulKondi\FavoAPI\MyAppSolution\MyApp.Persistance\bin\Debug\net7.0\MyApp.Persistance.dll
+C:\Users\whizt\Desktop\RahulKondi\FavoAPI\MyAppSolution\MyApp.Persistance\bin\Debug\net7.0\MyApp.Persistance.pdb
+C:\Users\whizt\Desktop\RahulKondi\FavoAPI\MyAppSolution\MyApp.Persistance\obj\Debug\net7.0\MyApp.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\whizt\Desktop\RahulKondi\FavoAPI\MyAppSolution\MyApp.Persistance\obj\Debug\net7.0\MyApp.Persistance.AssemblyInfoInputs.cache
+C:\Users\whizt\Desktop\RahulKondi\FavoAPI\MyAppSolution\MyApp.Persistance\obj\Debug\net7.0\MyApp.Persistance.AssemblyInfo.cs
+C:\Users\whizt\Desktop\RahulKondi\FavoAPI\MyAppSolution\MyApp.Persistance\obj\Debug\net7.0\MyApp.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\whizt\Desktop\RahulKondi\FavoAPI\MyAppSolution\MyApp.Persistance\obj\Debug\net7.0\MyApp.Persistance.dll
+C:\Users\whizt\Desktop\RahulKondi\FavoAPI\MyAppSolution\MyApp.Persistance\obj\Debug\net7.0\refint\MyApp.Persistance.dll
+C:\Users\whizt\Desktop\RahulKondi\FavoAPI\MyAppSolution\MyApp.Persistance\obj\Debug\net7.0\MyApp.Persistance.pdb
+C:\Users\whizt\Desktop\RahulKondi\FavoAPI\MyAppSolution\MyApp.Persistance\obj\Debug\net7.0\ref\MyApp.Persistance.dll
+C:\Users\whizt\Desktop\RahulKondi\FavoAPI\MyAppSolution\MyApp.Persistance\bin\Debug\net7.0\MyApp.Application.dll
+C:\Users\whizt\Desktop\RahulKondi\FavoAPI\MyAppSolution\MyApp.Persistance\bin\Debug\net7.0\MyApp.Domain.dll
+C:\Users\whizt\Desktop\RahulKondi\FavoAPI\MyAppSolution\MyApp.Persistance\bin\Debug\net7.0\MyApp.Application.pdb
+C:\Users\whizt\Desktop\RahulKondi\FavoAPI\MyAppSolution\MyApp.Persistance\bin\Debug\net7.0\MyApp.Domain.pdb
+C:\Users\whizt\Desktop\RahulKondi\FavoAPI\MyAppSolution\MyApp.Persistance\obj\Debug\net7.0\MyApp.Persistance.csproj.AssemblyReference.cache
+C:\Users\whizt\Desktop\RahulKondi\FavoAPI\MyAppSolution\MyApp.Persistance\obj\Debug\net7.0\MyApp.Persistance.csproj.CopyComplete
